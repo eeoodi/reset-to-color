@@ -1,7 +1,7 @@
 var points = 0
 
 function setpointtext() {
-  document.getElementById('point').textContent = points
+  document.getElementById("point").textContent = points
 }
 
 while (true){
